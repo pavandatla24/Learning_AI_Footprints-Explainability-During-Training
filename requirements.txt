@@ -1,0 +1,8 @@
+torch           # or tensorflow, but we’ll start with PyTorch
+numpy
+pandas
+scikit-learn    # for PCA
+matplotlib      # simple visualizations
+umap-learn      # optional, later for nicer embeddings
+tqdm            # training progress bars
+jupyter         # if you want quick experiments
